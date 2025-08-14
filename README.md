@@ -1,5 +1,12 @@
 # 💻 𝓡𝓮𝓷𝓮𝓰𝓪𝓭𝓸 | 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻
 
+<div align="center">
+
+[![Portfolio Preview](https://img.shields.io/badge/✨_Live_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://renegadothedev.github.io/My-portfolio/)
+  
+
+</div>
+
 ---
 
 ## 📚 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
@@ -49,7 +56,7 @@
 [![Discord](https://img.shields.io/badge/💬_Discord-seementhis-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1022193393368535040)
 [![Email](https://img.shields.io/badge/📧_Email-joaovitorbds752@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorbds752@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-renegade_dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-renegade.dev-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://renegadothedev.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio_Atualizado-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://renegadothedev.github.io/My-portfolio/)
 
 </div>
 
@@ -57,3 +64,10 @@
 
 <div align="center">
 
+```typescript
+interface Developer {
+  name: "Renegado";
+  focus: "Full-Stack Development" | "DevOps" | "Security";
+  portfolio: "https://renegadothedev.github.io/My-portfolio/";
+  philosophy: "Build robust solutions with clean code";
+}

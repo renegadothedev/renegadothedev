@@ -1,12 +1,6 @@
 # 💻 Prazer, sou o Renegado! 
 
-<div align="center">
-  
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1022193393368535040?theme=dark&bg=0d1117&animated=true&hideDiscrim=true)](https://discord.com/users/1022193393368535040)
-
-</div>
-
-## 🛠 Tech Stack
+## 📚 Tech Stack
 
 <div align="center">
   

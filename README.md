@@ -1,9 +1,5 @@
 # 💻 𝓡𝓮𝓷𝓮𝓰𝓪𝓭𝓸 | 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻
 
-<div align="center">
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1022193393368535040?theme=dark&bg=0d1117&animated=true&hideDiscrim=true)](https://discord.com/users/1022193393368535040)
-</div>
-
 ---
 
 ## 📚 𝓣𝓮𝓬𝓱 𝓢𝓽𝓪𝓬𝓴
@@ -61,10 +57,3 @@
 
 <div align="center">
 
-```ts
-interface Developer {
-  name: "Renegado";
-  focus: "Backend Development" | "DevOps" | "Security";
-  philosophy: "Build robust solutions with clean code";
-  currentlyLearning: ["Rust", "Kubernetes"];
-}

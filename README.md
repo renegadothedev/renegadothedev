@@ -53,8 +53,7 @@
 |---------|-------------|------------|--------|
 | **[🔒 VPN-Tor Suite](https://github.com/renegadothedev/vpn-tor)** | Advanced privacy toolkit with VPN & Tor integration | ![Bash](https://img.shields.io/badge/-Bash-4EAA25) ![Linux](https://img.shields.io/badge/-Linux-FCC624) ![Python](https://img.shields.io/badge/-Python-3776AB) | ![Active](https://img.shields.io/badge/🟢_Active-00AA00?style=flat-square) |
 | **[📥 YouTube DL Pro](https://github.com/renegadothedev/youtube-downloader)** | High-performance media downloader with batch processing | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808) ![WebUI](https://img.shields.io/badge/-Web_UI-61DAFB) | ![Active](https://img.shields.io/badge/🟢_Active-00AA00?style=flat-square) |
-| **[🌐 Network Toolkit](https://github.com/renegadothedev/network-toolkit)** | Comprehensive networking & security utilities | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25) ![Security](https://img.shields.io/badge/-Security-FF6B6B) | ![Active](https://img.shields.io/badge/🟢_Active-00AA00?style=flat-square) |
-| **[🚀 VPN Manager](https://github.com/renegadothedev/vpn-manager)** | Professional VPN management solution | ![Bash](https://img.shields.io/badge/-Bash-4EAA25) ![Linux](https://img.shields.io/badge/-Linux-FCC624) ![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20) | ![Active](https://img.shields.io/badge/🟢_Active-00AA00?style=flat-square) |
+| **[🌐 Network Toolkit](https://github.com/renegadothedev/network-toolkit)** | Comprehensive networking & security utilities | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25) ![Security](https://img.shields.io/badge/-Security-FF6B6B) | ![Active](https://img.shields.io/badge/🟢_Active-00AA00?style=flat-square) 
 
 </div>
 

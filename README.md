@@ -6,7 +6,7 @@
 
 [![🌐 Live Portfolio](https://img.shields.io/badge/✨_Portfolio_Live-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://renegadothedev.github.io/My-portfolio/)
 [![⭐ GitHub Stars](https://img.shields.io/github/stars/renegadothedev?color=FFD700&label=Stars&logo=github&style=for-the-badge)](https://github.com/renegadothedev)
-[![📂 Repositories](https://img.shields.io/badge/📂_3+_Repos-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renegadothedev?tab=repositories)
+[![📂 Repositories](https://img.shields.io/badge/📂_4+_Repos-00BFFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renegadothedev?tab=repositories)
 
 </div>
 

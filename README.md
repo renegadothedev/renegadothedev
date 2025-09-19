@@ -31,7 +31,7 @@
 |---------|-------------|--------------|--------|
 | **[VPN-Tor](https://github.com/renegadothedev/vpn-tor)** | Advanced VPN configuration with Tor integration for enhanced privacy | ![Bash](https://img.shields.io/badge/-Bash-4EAA25) ![Linux](https://img.shields.io/badge/-Linux-FCC624) | ![Active](https://img.shields.io/badge/🟢_Active-0d1117?style=flat) |
 | **[YouTube Downloader](https://github.com/renegadothedev/youtube-downloader)** | High-performance YouTube video/audio downloader with playlist support | ![Python](https://img.shields.io/badge/-Python-3776AB) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808) | ![Active](https://img.shields.io/badge/🟢_Active-0d1117?style=flat) |
-| **[Network Toolkit](https://github.com/renegadothedev/network-toolkit)** | Collection of networking utilities and security tools | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25) | ![Maintained](https://img.shields.io/badge/🔵_Maintained-0d1117?style=flat) |
+| **[Network Toolkit](https://github.com/renegadothedev/network-toolkit)** | Collection of networking utilities and security tools | ![Python](https://img.shields.io/badge/-Python-3776AB) ![Bash](https://img.shields.io/badge/-Bash-4EAA25) | ![Active](https://img.shields.io/badge/🟢_Active-0d1117?style=flat) |
 
 </div>
 

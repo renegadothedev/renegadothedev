@@ -80,8 +80,8 @@
 
 ```text
 🚀 Weekly Development Breakdown:
-🐍 Python        ████████████████████ 65%
-⚡ JavaScript    ████████████ 40%
+🐍 JavaScript    ████████████████████ 65%
+⚡ Python        ████████████ 40%
 🔧 TypeScript    ██████████ 35%
 🐚 Bash          ████████ 30%
 🎨 HTML/CSS      ██████ 25%

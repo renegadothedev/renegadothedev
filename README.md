@@ -132,8 +132,6 @@ const renegado: Developer = {
 };
 ```
 
-![Footer](https://visitcount.itsvg.in/api?id=renegadothedev&icon=5&color=6&pretty=true)
-
 **⭐ Star my repositories if you find them useful!**
 
 </div>

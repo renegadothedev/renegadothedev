@@ -136,18 +136,3 @@ const renegado: Developer = {
 
 </div>
 
-
-### ✨ Principais melhorias:
-
-1. **🎨 Design Visual Melhorado** - Cores mais vibrantes e layout mais organizado
-2. **🚀 Badges Interativas** - Com contadores de estrelas e repositórios
-3. **📊 Gráficos Aprimorados** - Estatísticas do GitHub com temas personalizados
-4. **🎯 Tech Stack Organizado** - Dividido por categorias (Frontend, Backend, etc.)
-5. **📈 Activity Graph** - Gráfico de atividade de contribuição visual
-6. **💫 Typing Animation** - Animação de digitação no cabeçalho
-7. **🎨 Cores Temáticas** - Esquema de cores consistente (laranja/amarelo/tema escuro)
-8. **📋 Projetos Destacados** - Descrições mais detalhadas e badges de tecnologia
-9. **📊 Weekly Breakdown** - Visualização de atividades por linguagem
-10. **🎭 Manifesto Interativo** - Interface TypeScript estilizada
-11. **🔗 Links Melhorados** - Ícones e textos mais atraentes
-12. **📱 Layout Responsivo** - Melhor organização para mobile
